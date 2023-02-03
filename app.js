@@ -48,7 +48,4 @@ const getFile = ()=>{
 }
 
 
-upload()
-getFile()
-
 
